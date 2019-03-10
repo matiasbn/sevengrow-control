@@ -1,4 +1,5 @@
 #include "header.h"
+
 void setup()
 {
     pinMode(EXTRACTOR_PORT, OUTPUT);
