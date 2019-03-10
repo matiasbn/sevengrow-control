@@ -22,3 +22,7 @@ _The Transmission module is the one that is on charge of transmitting the data s
   /sevengrow/clientid/control/extractors/
   /sevengrow/clientid/control/humidifier/
   /sevengrow/clientid/control/co2emiiter/
+
+### Cables:
+ * Yellow Relay = Humidifier
+ * Orange Relay = Extractor
