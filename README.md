@@ -1,6 +1,6 @@
-# Sevengrow Temperature and Humidity Firmware
+# Sevengrow Control Firmware
 
-DHT11 as sensor
+Control devices depending on the topics
 
 ### [M3]Transmission
 
